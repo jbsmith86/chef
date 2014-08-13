@@ -28,7 +28,7 @@
 * Fix SuSE package removal failure (Issue 1732).
 * Enable Travis to run Test Kitchen with Kitchen EC2.
 * End-to-end tests for Ubuntu 12.04
-* Remove recipe DSL from base provisioner (Issue 1446).
+* Remove recipe DSL from base provider (Issue 1446).
 
 
 * [**Phil Dibowitz**](https://github.com/jaymzh):
